@@ -4,7 +4,7 @@
   ## Table of Contents
   - [Project description](#description)
   - [Installation](#installation)
-  - [Useage](#usage)
+  - [Usage](#usage)
   - [Collaborators](#collaborators)
   - [How to Contribute](#contributing)
   - [Testing](#tests)
@@ -15,7 +15,7 @@ This is a back end for an e-commerce site. It takes a working Express.js API and
   ## Installation
  Use npm install --save mysql2
  
- Install Sequelize by using npm insall
+ Install Sequelize by using npm install
  
  Install the dotenv by using npm install dotenv --save
   
